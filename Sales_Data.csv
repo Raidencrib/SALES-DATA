@@ -1,0 +1,151 @@
+Sale_ID,Product,Category,Location,Quantity_Sold,Unit_Price,Total_Sale,Sale_Date
+1,Laptop,Electronics,Kano,8,115.49,923.92,2024-01-27
+2,Novel,Books,Ibadan,14,20.73,290.22,2024-01-24
+3,Jeans,Clothing,Ibadan,20,18.14,362.8,2024-02-20
+4,Notebook,Books,Abuja,15,296.69,4450.35,2024-01-02
+5,Dress,Clothing,Kano,9,81.96,737.64,2024-03-27
+6,Laptop,Electronics,Port Harcourt,4,182.69,730.76,2024-03-29
+7,Magazine,Books,Lagos,15,270.43,4056.45,2024-04-06
+8,Tablet,Electronics,Ibadan,12,290.79,3489.48,2024-06-29
+9,Laptop,Electronics,Abuja,10,492.68,4926.8,2024-02-29
+10,Headphones,Electronics,Kano,15,319.66,4794.9,2024-04-03
+11,Jacket,Clothing,Kano,7,336.74,2357.18,2024-06-28
+12,Smartphone,Electronics,Ibadan,8,85.88,687.04,2024-04-07
+13,Beans,Groceries,Kano,2,118.38,236.76,2024-01-09
+14,Milk,Groceries,Kano,3,109.44,328.32,2024-05-25
+15,Beans,Groceries,Port Harcourt,13,442.92,5757.96,2024-06-13
+16,Table,Furniture,Kano,5,127.08,635.4,2024-05-23
+17,Magazine,Books,Ibadan,14,449.42,6291.88,2024-04-12
+18,Beans,Groceries,Abuja,17,249.29,4237.93,2024-01-13
+19,Smartphone,Electronics,Abuja,14,300.22,4203.08,2024-04-08
+20,Bed,Furniture,Ibadan,9,485.68,4371.12,2024-01-03
+21,Tablet,Electronics,Kano,4,150.28,601.12,2024-02-10
+22,Chair,Furniture,Kano,17,382.17,6496.89,2024-05-09
+23,Tablet,Electronics,Ibadan,20,103.46,2069.2,2024-04-05
+24,Shirt,Clothing,Ibadan,11,246.86,2715.46,2024-01-29
+25,Yam,Groceries,Abuja,2,124.23,248.46,2024-05-25
+26,Laptop,Electronics,Port Harcourt,3,489.1,1467.3,2024-05-16
+27,Jeans,Clothing,Port Harcourt,18,86.74,1561.32,2024-05-15
+28,Notebook,Books,Abuja,18,378.86,6819.48,2024-06-25
+29,Jacket,Clothing,Port Harcourt,12,221.86,2662.32,2024-05-12
+30,Chair,Furniture,Abuja,8,36.69,293.52,2024-01-06
+31,Textbook,Books,Ibadan,8,8.56,68.48,2024-06-10
+32,Smartphone,Electronics,Lagos,2,430.52,861.04,2024-01-19
+33,Textbook,Books,Kano,16,111.05,1776.8,2024-02-03
+34,Notebook,Books,Abuja,16,404.71,6475.36,2024-02-18
+35,Laptop,Electronics,Port Harcourt,12,214.67,2576.04,2024-04-29
+36,Laptop,Electronics,Lagos,13,365.47,4751.11,2024-01-28
+37,Jeans,Clothing,Abuja,18,227.06,4087.08,2024-04-18
+38,Jacket,Clothing,Port Harcourt,8,437.87,3502.96,2024-01-20
+39,Chair,Furniture,Lagos,18,418.83,7538.94,2024-01-24
+40,Jeans,Clothing,Port Harcourt,16,243.27,3892.32,2024-04-12
+41,Smartphone,Electronics,Port Harcourt,1,492.73,492.73,2024-03-08
+42,Sofa,Furniture,Port Harcourt,18,332.63,5987.34,2024-05-04
+43,Jeans,Clothing,Kano,7,484.51,3391.57,2024-05-28
+44,Novel,Books,Kano,2,29.82,59.64,2024-05-02
+45,Textbook,Books,Lagos,17,44.66,759.22,2024-02-17
+46,Laptop,Electronics,Abuja,13,64.34,836.42,2024-05-25
+47,Shirt,Clothing,Ibadan,3,212.52,637.56,2024-05-29
+48,Magazine,Books,Kano,7,336.51,2355.57,2024-03-21
+49,Jacket,Clothing,Port Harcourt,5,337.49,1687.45,2024-03-17
+50,Sofa,Furniture,Lagos,1,231.85,231.85,2024-05-24
+51,Laptop,Electronics,Ibadan,7,255.41,1787.87,2024-02-03
+52,Rice,Groceries,Abuja,12,146.07,1752.84,2024-04-22
+53,Magazine,Books,Ibadan,17,8.87,150.79,2024-05-21
+54,Rice,Groceries,Abuja,9,62.14,559.26,2024-01-28
+55,Textbook,Books,Kano,10,304.39,3043.9,2024-03-28
+56,Jacket,Clothing,Ibadan,16,129.31,2068.96,2024-01-14
+57,Headphones,Electronics,Kano,2,6.76,13.52,2024-02-03
+58,Beans,Groceries,Port Harcourt,18,354.31,6377.58,2024-05-23
+59,Laptop,Electronics,Lagos,5,275.07,1375.35,2024-04-04
+60,Textbook,Books,Port Harcourt,5,25.71,128.55,2024-04-03
+61,Tablet,Electronics,Abuja,8,335.13,2681.04,2024-03-31
+62,Notebook,Books,Ibadan,5,463.25,2316.25,2024-03-01
+63,Jeans,Clothing,Port Harcourt,1,93.78,93.78,2024-03-26
+64,Table,Furniture,Kano,6,394.75,2368.5,2024-01-28
+65,Chair,Furniture,Port Harcourt,8,103.79,830.32,2024-04-27
+66,Yam,Groceries,Abuja,8,16.71,133.68,2024-02-19
+67,Sofa,Furniture,Kano,3,483.61,1450.83,2024-03-12
+68,Milk,Groceries,Ibadan,11,469.92,5169.12,2024-01-30
+69,Beans,Groceries,Ibadan,9,23.94,215.46,2024-06-01
+70,Sofa,Furniture,Kano,14,305.07,4270.98,2024-05-10
+71,Headphones,Electronics,Ibadan,7,131.09,917.63,2024-04-21
+72,Smartphone,Electronics,Kano,14,39.64,554.96,2024-06-19
+73,Yam,Groceries,Lagos,10,256.03,2560.3,2024-06-19
+74,Sofa,Furniture,Port Harcourt,10,279.43,2794.3,2024-02-19
+75,Bed,Furniture,Abuja,20,286.71,5734.2,2024-04-13
+76,Novel,Books,Kano,10,109.04,1090.4,2024-05-28
+77,Magazine,Books,Port Harcourt,15,223.87,3358.05,2024-02-24
+78,Notebook,Books,Abuja,3,145.47,436.41,2024-06-18
+79,Magazine,Books,Lagos,8,338.03,2704.24,2024-02-27
+80,Jeans,Clothing,Lagos,2,126.2,252.4,2024-05-01
+81,Novel,Books,Port Harcourt,14,443.64,6210.96,2024-05-27
+82,Dress,Clothing,Port Harcourt,13,125.77,1635.01,2024-06-16
+83,Laptop,Electronics,Port Harcourt,8,92.06,736.48,2024-06-27
+84,Notebook,Books,Lagos,18,128.35,2310.3,2024-02-01
+85,Table,Furniture,Port Harcourt,17,494.01,8398.17,2024-06-01
+86,Milk,Groceries,Ibadan,17,216.24,3676.08,2024-05-20
+87,Table,Furniture,Port Harcourt,15,133.3,1999.5,2024-03-04
+88,Milk,Groceries,Abuja,9,222.74,2004.66,2024-03-14
+89,Jacket,Clothing,Kano,11,447.05,4917.55,2024-01-21
+90,Jeans,Clothing,Abuja,13,348.51,4530.63,2024-06-29
+91,Shirt,Clothing,Port Harcourt,14,168.79,2363.06,2024-04-29
+92,Chair,Furniture,Abuja,14,197.79,2769.06,2024-05-29
+93,Headphones,Electronics,Port Harcourt,1,471.66,471.66,2024-03-17
+94,Bed,Furniture,Ibadan,18,400.93,7216.74,2024-02-26
+95,Table,Furniture,Kano,14,245.39,3435.46,2024-04-09
+96,Milk,Groceries,Abuja,15,460.17,6902.55,2024-06-08
+97,Novel,Books,Port Harcourt,19,284.37,5403.03,2024-01-07
+98,Headphones,Electronics,Abuja,15,94.96,1424.4,2024-03-07
+99,Sofa,Furniture,Abuja,15,166.79,2501.85,2024-04-07
+100,Milk,Groceries,Kano,3,237.8,713.4,2024-05-18
+101,Tablet,Electronics,Abuja,3,391.71,1175.13,2024-06-15
+102,Laptop,Electronics,Abuja,7,420.42,2942.94,2024-06-08
+103,Jeans,Clothing,Abuja,16,336.38,5382.08,2024-05-24
+104,Dress,Clothing,Kano,12,88.06,1056.72,2024-06-04
+105,Smartphone,Electronics,Kano,4,291.45,1165.8,2024-03-20
+106,Notebook,Books,Port Harcourt,7,42.62,298.34,2024-06-25
+107,Shirt,Clothing,Kano,20,403.74,8074.8,2024-05-24
+108,Tablet,Electronics,Ibadan,14,332.45,4654.3,2024-01-18
+109,Magazine,Books,Lagos,14,412.05,5768.7,2024-01-28
+110,Sofa,Furniture,Port Harcourt,5,220.57,1102.85,2024-05-13
+111,Milk,Groceries,Port Harcourt,14,413.74,5792.36,2024-05-31
+112,Yam,Groceries,Abuja,3,143.07,429.21,2024-04-25
+113,Dress,Clothing,Ibadan,20,335.75,6715.0,2024-03-27
+114,Headphones,Electronics,Kano,6,246.34,1478.04,2024-03-31
+115,Yam,Groceries,Kano,20,352.09,7041.8,2024-03-11
+116,Novel,Books,Ibadan,7,47.38,331.66,2024-04-14
+117,Table,Furniture,Port Harcourt,16,226.85,3629.6,2024-01-05
+118,Tablet,Electronics,Abuja,13,347.43,4516.59,2024-03-19
+119,Magazine,Books,Port Harcourt,18,267.81,4820.58,2024-04-18
+120,Magazine,Books,Kano,15,139.1,2086.5,2024-03-05
+121,Shirt,Clothing,Abuja,11,64.18,705.98,2024-05-17
+122,Jeans,Clothing,Abuja,16,141.87,2269.92,2024-05-30
+123,Magazine,Books,Lagos,7,151.64,1061.48,2024-04-02
+124,Jacket,Clothing,Lagos,18,67.66,1217.88,2024-01-12
+125,Tablet,Electronics,Abuja,16,55.78,892.48,2024-01-04
+126,Magazine,Books,Port Harcourt,16,223.03,3568.48,2024-02-17
+127,Tablet,Electronics,Port Harcourt,4,411.95,1647.8,2024-04-12
+128,Chair,Furniture,Ibadan,2,80.1,160.2,2024-05-24
+129,Rice,Groceries,Abuja,4,281.25,1125.0,2024-04-16
+130,Textbook,Books,Ibadan,13,228.0,2964.0,2024-04-23
+131,Milk,Groceries,Kano,19,312.41,5935.79,2024-06-05
+132,Smartphone,Electronics,Abuja,9,331.91,2987.19,2024-02-10
+133,Jeans,Clothing,Ibadan,3,82.48,247.44,2024-04-14
+134,Bed,Furniture,Kano,2,119.58,239.16,2024-06-29
+135,Milk,Groceries,Lagos,8,462.34,3698.72,2024-06-09
+136,Textbook,Books,Port Harcourt,4,274.56,1098.24,2024-06-14
+137,Jacket,Clothing,Abuja,3,34.52,103.56,2024-03-19
+138,Magazine,Books,Port Harcourt,4,237.01,948.04,2024-03-18
+139,Sofa,Furniture,Ibadan,18,249.43,4489.74,2024-01-21
+140,Novel,Books,Port Harcourt,11,303.84,3342.24,2024-01-07
+141,Smartphone,Electronics,Ibadan,19,475.64,9037.16,2024-06-21
+142,Rice,Groceries,Abuja,16,261.89,4190.24,2024-04-23
+143,Beans,Groceries,Ibadan,14,319.22,4469.08,2024-05-05
+144,Headphones,Electronics,Kano,14,169.99,2379.86,2024-06-20
+145,Smartphone,Electronics,Kano,14,348.37,4877.18,2024-03-14
+146,Chair,Furniture,Port Harcourt,3,160.69,482.07,2024-03-23
+147,Headphones,Electronics,Ibadan,1,330.54,330.54,2024-05-18
+148,Bed,Furniture,Lagos,7,261.63,1831.41,2024-06-08
+149,Bed,Furniture,Lagos,7,137.19,960.33,2024-02-03
+150,Milk,Groceries,Port Harcourt,4,19.29,77.16,2024-06-10
